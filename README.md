@@ -1,6 +1,6 @@
 # First_Contribution :beginner: :rocket: :HackertoberFest: 2019
 ---
-A project to help new developers to get started with GitHub with first Pull Request
+A project to help new developers to get started with GitHub with their first Pull Request
 
 It's difficult when you do something for the first time. Like riding a bicycle, learning to cook or working on a new project.
 
